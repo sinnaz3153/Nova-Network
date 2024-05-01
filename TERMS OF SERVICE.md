@@ -1,4 +1,4 @@
-**Nutzungsbedingungen für den Nova Network Discord-Bot**
+# **Nutzungsbedingungen für den Nova Network Discord-Bot**
 
 Willkommen beim Nova Network Discord-Bot! Bitte lies diese Nutzungsbedingungen sorgfältig durch, bevor du den Bot nutzt. Durch die Nutzung des Nova Network Discord-Bots stimmst du diesen Bedingungen uneingeschränkt zu.
 
