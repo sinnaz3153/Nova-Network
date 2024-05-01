@@ -1,6 +1,4 @@
-Natürlich, hier ist ein Beispiel für die Datenschutzrichtlinie (Privacy Policy) für den Nova Network Discord-Bot:
-
-**Datenschutzrichtlinie für den Nova Network Discord-Bot**
+# **Datenschutzrichtlinie für den Nova Network Discord-Bot**
 
 Diese Datenschutzrichtlinie beschreibt, wie der Nova Network Discord-Bot Informationen sammelt, verwendet und offenlegt. Bitte lies diese Richtlinie sorgfältig durch, bevor du den Bot nutzt. Durch die Nutzung des Nova Network Discord-Bots stimmst du dieser Datenschutzrichtlinie zu.
 
